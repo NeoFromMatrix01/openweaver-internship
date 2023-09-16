@@ -1,0 +1,6 @@
+Webpage: http://localhost/online-examination-systen-in-php-master/
+
+Database: http://localhost/phpmyadmin/
+
+admin usernmae: admin@admin.com
+Paswword: admin
